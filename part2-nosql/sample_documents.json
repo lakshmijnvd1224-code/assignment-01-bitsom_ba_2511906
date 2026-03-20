@@ -1,0 +1,41 @@
+[
+  {
+    "product_id": "E101",
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 75000,
+    "specifications": {
+      "brand": "Dell",
+      "warranty_years": 2,
+      "voltage": "220V"
+    },
+    "features": ["SSD", "16GB RAM", "Backlit Keyboard"]
+  },
+
+  {
+    "product_id": "C201",
+    "name": "Men T-Shirt",
+    "category": "Clothing",
+    "price": 1200,
+    "details": {
+      "brand": "Nike",
+      "fabric": "Cotton",
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    "colors": ["Black", "White", "Blue"]
+  },
+
+  {
+    "product_id": "G301",
+    "name": "Organic Milk",
+    "category": "Groceries",
+    "price": 60,
+    "nutrition": {
+      "calories": 150,
+      "protein": "8g",
+      "fat": "8g"
+    },
+    "expiry_date": "2024-12-30",
+    "storage": "Refrigerated"
+  }
+]
